@@ -3,8 +3,8 @@
 
 # Socket-programming
 
-1. Run server.py and client.py.
-2. Choose one of the five lists.
+* Run server.py and client.py.  
+* Choose one of the five lists.  
   1. Deposit.
       -Input value can only be positive integers.  
   2. Withdraw.
